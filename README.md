@@ -1,19 +1,19 @@
-# Ein lustiges Bärchenabenteuer
+# A Funny Little Bear Adventure
 
-Es war einmal ein Bär namens Bruno. Bruno war ein ganz besonderer Bär, denn er liebte es, Rollschuh zu fahren. Eines Tages, während er durch den Wald rollte, bemerkte er, dass ihm seine Bärentorte fehlte. "Oh nein!", rief Bruno, "wie kann ich ohne meine leckere Torte weitermachen?"
+Once upon a time, there was a bear named Bruno. Bruno was a very special bear because he loved to roller skate. One day, while rolling through the forest, he noticed that his beloved bear cake was missing. "Oh no!" Bruno exclaimed, "How can I continue without my delicious cake?"
 
-Bruno entschied sich, seine Freunde um Hilfe zu bitten. Der erste, den er traf, war ein Eichhörnchen namens Erwin. Erwin sagte: "Warum kommt ein Bär wie du ohne seine Torte aus dem Haus? Komm, wir suchen sie!"
+Bruno decided to ask his friends for help. The first one he met was a squirrel named Erwin. Erwin said, "Why would a bear like you leave the house without his cake? Come on, let's search for it!"
 
-Zusammen rollten sie weiter und trafen auf eine weiße alte Eule. Die Eule lachte und sagte: "Bruno, deine Torte findet sich immer in deinem Herzen." Bruno kratzte sich den Kopf. Was meinte die Eule nur?
+Together, they rolled on and came upon a wise old owl. The owl laughed and said, "Bruno, your cake can always be found in your heart." Bruno scratched his head. What did the owl mean?
 
-Sie beschlossen, bei der Schildkröte Tillmann vorbeizuschauen, die bekannt dafür war, Dinge zu finden, die anderen verborgen blieben. Auf dem Weg dorthin trafen sie die singende Maus Lilli, die fröhlich ein Lied über verlorene Dinge sang. Lilli schloss sich den beiden an und stellte fest, dass sie einen guten Tortenfinder in ihrer Truppe brauchten.
+They agreed to stop by the shimmering turtle Tillmann, who was known for finding things that were hidden from others. On the way, they met the singing mouse Lilli, who was cheerfully singing a song about lost things. Lilli joined them and realized they needed a good cake-finder in their group.
 
-Bei Tillmann angekommen, erzählte die Schildkröte, dass sie etwas Merkwürdiges im Wald gesehen hatte und dass es klug wäre, dem Bachlauf zu folgen, denn dort versteckten sich oft die besten Geheimnisse.
+Upon arriving at Tillmann, the turtle revealed that she had seen something strange in the forest and suggested it was wise to follow the creek, as it often hid the best secrets.
 
-Bruno, Erwin und Lilli folgten dem Ratschlag und fanden bald darauf nicht nur die vermisste Torte, sondern auch einen verborgenen Pfad, der zu einem geheimen Garten führte. Die Eule hatte recht gehabt: Der Weg zu seinem Herz führte Bruno zu einem neuartigen Abenteuer.
+Bruno, Erwin, and Lilli followed the advice and soon found not only the missing cake but also a hidden path leading to a secret garden. The owl had been right: The way to his heart led Bruno to a new adventure.
 
-Am Ende fand Bruno seine Torte natürlich wieder - sie lag die ganze Zeit unter einem grünen Busch. Von da an beschloss Bruno, seine Torte nie wieder aus den Augen zu lassen, und die Freunde feierten mit einem grünen Picknick im Wald.
+In the end, Bruno of course found his cake again - it was under a green bush all the time. From then on, Bruno decided never to let his cake out of sight again, and the friends celebrated with a green picnic in the forest.
 
-## Ein Tag voller Lachen
+## A Day Full of Laughter
 
-Dieser Tag ging als "Der Tag des verlorenen Kuchens" in die Bärengeschichte ein, und jedes Tier im Wald lernte, dass gute Freunde und eine leckere Torte die besten Dinge im Leben sind.
+This day went down in bear history as "The Day of the Lost Cake," and every animal in the forest learned that good friends and a delicious cake are the best things in life.
