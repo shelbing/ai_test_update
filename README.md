@@ -1,43 +1,43 @@
-IyBBIEZ1bm55IExpdHRsZSBCZWFyIEFkdmVudHVyZQoKICAgICAgIF8gICAg
-IF8KICAgIC8gIC0tICBcCiAgICB8ICggbyAgIG8gKSB8CiAgICAvICBcICAt
-IC8gIFwKICAvICAgIFwgICAvICAgIFwKICB8ICBcX19fX198ClxuT25jZSB1
-cG9uIGEgdGltZSwgdGhlcmUgd2FzIGEgYmVhciBuYW1lZCBCcnVuby4gQnJ1
-bm8gd2FzIGEgdmVyeSBzcGVjaWFsIGJlYXIgYmVjYXVzZSBoZSBsb3ZlZCB0
-byByb2xsZXIgc2thdGUuIE9uZSBkYXksIHdoaWxlIHJvbGxpbmcgdGhyb3Vn
-aCB0aGUgZm9yZXN0LCBoZSBub3RpY2VkIHRoYXQgaGlzIGJlbG92ZWQgYmVh
-ciBjYWtlIHdhcyBtaXNzaW5nLiAiT2ggbm8hIiBCcnVubyBleGNsYWltZWQs
-ICJIb3cgY2FuIEkgY29udGludWUgd2l0aG91dCBteSBkZWxpY2lvdXMgY2Fr
-ZT8iCgpCcnVubyBkZWNpZGVkIHRvIGFzayBoaXMgZnJpZW5kcyBmb3IgaGVs
-cC4gVGhlIGZpcnN0IG9uZSBoaSBtZXQgd2FzIGEgc3F1aXJyZWwgbmFtZWQg
-RXJ3aW4uIEVyd2luIHNhaWQsICJXaHkgd291bGQgYSBiZWFyIGxpa2UgeW91
-IGxlYXZlIHRoZSBob3VzZSB3aXRob3V0IGhpcyBjYWtlPyBDb21lIG9uLCBs
-ZXQncyBzZWFyY2ggZm9yIGl0ISIKClRvZ2V0aGVyLCB0aGV5IHJvbGxlZCBv
-biBhbmQgY2FtZSB1cG9uIGEgd2lzZSBvbGQgb3dsLiBUaGUgb3dsIGxhdWdo
-ZWQgYW5kIHNhaWQsICJCcnVubywgeW91ciBjYWtlIGNhbiBhbHdheXMgYmUg
-Zm91bmQgaW4geW91ciBoZWFydC4iIEJydW5vIHNjcmF0Y2hlZCBoaXMgaGVh
-ZC4gV2hhdCBkaWQgdGhlIG93bCBtZWFuPwoKVGhleSBhZ3JlZWQgdG8gc3Rv
-cCBieSB0aGUgc2hpbW1lcmluZyB0dXJ0bGUgVGlsbG1hbm4sIHdobyB3YXMg
-a25vd24gZm9yIGZpbmRpbmcgdGhpbmdzIHRoYXQgd2VyZSBoaWRkZW4gZnJv
-bSBvdGhlcnMuIE9uIHRoZSB3YXksIHRoZXkgbWV0IHRoZSBzaW5naW5nIG1v
-dXNlIExpbGxpLCB3aG8gd2FzIGNoZWVyZnVsbHkgc2luZ2luZyBhIHNvbmcg
-YWJvdXQgbG9zdCB0aGluZ3MuIExpbGxpIGpvaW5lZCB0aGVtIGFuZCByZWFs
-aXplZCB0aGV5IG5lZWRlZCBhIGdvb2QgY2FrZS1maW5kZXIgaW4gdGhlaXIg
-Z3JvdXAuClxuVXBvbiBhcnJpdmluZyBhdCBUaWxsbWFubiB0aGUgdHVydGxl
-IHJldmVhbGVkIHRoYXQgc2hlIGhhZCBzZWVuIHNvbWV0aGluZyBzdHJhbmdl
-IGluIHRoZSBmb3Jlc3QgYW5kIHN1Z2dlc3RlZCBpdCB3YXMgd2lzZSB0byBm
-b2xsb3cgdGhlIGNyZWVrLCBhcyBpdCBvZnRlbiBoaWQgdGhlIGJlc3Qgc2Vj
-cmV0cy4KCkJydW5vLCBFcndpbiBhbmQgTGlsbGkgZm9sbG93ZWQgdGhlIGFk
-dmljZSBhbmQgc29vbiBmb3VuZCBub3Qgb25seSB0aGUgbWlzc2luZyBjYWtl
-IGJ1dCBhbHNvIGEgaGlkZGVuIHBhdGggbGVhZGluZyB0byBhIHNlY3JldCBn
-YXJkZW4uIFRoZSBvd2wgaGFkIGJlZW4gcmlnaHQ6IFRoZSB3YXkgdG8gaGlz
-IGhlYXJ0IGxlZCBCcnVubyB0byBhIG5ldyBhZHZlbnR1cmUuCgpJbiB0aGUg
-ZW5kLCBCcnVubyBvZiBjb3Vyc2UgZm91bmQgaGlzIGNha2UgYWdhaW4gLSBp
-dCB3YXMgdW5kZXIgYSBncmVlbiBidXNoIGFsbCB0aGUgdGltZS4gRnJvbSB0
-aGVuIG9uLCBCcnVubyBkZWNpZGVkIG5ldmVyIHRvIGxldCBoaXMgY2FrZSBv
-dXQgb2Ygc2lnaHQgYWdhaW4sIGFuZCB0aGUgZnJpZW5kcyBjZWxlYnJhdGVk
-IHdpdGggYSBncmVlbiBwaWNuaWMgaW4gdGhlIGZvcmVzdC4KCiMjIEEgRGF5
-IEZ1bGwgb2YgTGF1Z2h0ZXIKClRoaXMgZGF5IHdlbnQgZG93biBpbiBiZWFy
-IGhpc3RvcnkgYXMgIlRoZSBEYXkgb2YgdGhlIExvc3QgQ2FrZSwiIGFuZCBl
-dmVyeSBhbmltYWwgaW4gdGhlIGZvcmVzdCBsZWFybmVkIHRoYXQgZ29vZCBm
-cmllbmRzIGFuZCBhIGRlbGljaW91cyBjYWtlIGFyZSB0aGUgYmVzdCB0aGlu
-Z3MgaW4gbGlmZS4K
+# A Fun Bear Adventure
+
+Once upon a time, there was a bear named Bruno. Bruno was a very special bear because he loved to roller-skate. One day, while rolling through the woods, he noticed that his bear cake was missing. "Oh no!", exclaimed Bruno, "How can I continue without my delicious cake?"
+
+Bruno decided to ask his friends for help. The first one he met was a squirrel named Erwin. Erwin said: "Why does a bear like you leave the house without his cake? Come on, let's find it!"
+
+Together, they rolled on and met an old white owl. The owl laughed and said: "Bruno, your cake is always found in your heart." Bruno scratched his head. What did the owl mean?
+
+In the end, Bruno naturally found his cake again - it was under a green bush all along. From then on, Bruno decided never to take his eyes off his cake again, and the friends celebrated with a green picnic in the woods.
+
+## A Day Full of Laughter
+
+This day went down in bear history as "The Day of the Lost Cake," and every animal in the forest learned that good friends and a delicious cake are the best things in life.
+
+```
+          ___   .--.
+        .""  \/ \\(_
+      _/ _  \/    \
+    .'  / )  \    ""--.
+   /   \  "\/ ___/`---'
+  |    |\_\  \
+  \   \   \   `-.
+   '-.-'| '|     \ \
+     / \ \  |    | |
+     |\ '\ \ |   ; |
+     ( '-\ \|    /
+      \ \ \ |   /
+       \ \ \|  |
+        \ \ | /
+         | |/
+         | |
+        /  /
+       |  |
+       \  |\
+       |  | |
+       |  | |
+       |  | |
+       |  \ \
+       \   \
+        '--'
+```
+
+These additions will ensure that the story is engaging not only in word but also in visual elements. Enjoy Bruno's adventures!
