@@ -6,6 +6,6 @@ Als sie ankamen, sahen sie Flammen, die aus den oberen Fenstern schlugen. Die Ei
 
 Mit einem kühlen Kopf und schnellem Handeln führte Hans sein Team in das brennende Gebäude. Sie kämpften sich durch dicke Rauchwolken und stechende Hitze, um die eingeschlossenen Menschen zu finden und zu retten.
 
-Dank Hans' Tapferkeit und seiner sorgfältigen Planung konnte jeder Bewohner sicher aus dem Gebäude gebracht werden. Das Feuer war bald gelöscht, und die Menge auf der Straße jubelte.
+Dank Hans' Tapferkeit und seiner sorgfältigen Planung konnten jeder Bewohner sicher aus dem Gebäude gebracht werden. Das Feuer war bald gelöscht, und die Menge auf der Straße jubelte.
 
 Als Hans nach einem langen Tag nach Hause ging, wusste er, dass er einen Unterschied gemacht hatte. Er war stolz auf seine Arbeit und wusste, dass er morgen wieder genauso handeln würde, wenn das nächste Mal die Sirenen heulten. Hans, der Held des Alltags, ging an diesem Abend mit einem Lächeln ins Bett und einem friedlichen Gefühl im Herzen.
