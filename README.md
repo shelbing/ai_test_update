@@ -1,19 +1,43 @@
-# A Funny Little Bear Adventure
-
-Once upon a time, there was a bear named Bruno. Bruno was a very special bear because he loved to roller skate. One day, while rolling through the forest, he noticed that his beloved bear cake was missing. "Oh no!" Bruno exclaimed, "How can I continue without my delicious cake?"
-
-Bruno decided to ask his friends for help. The first one he met was a squirrel named Erwin. Erwin said, "Why would a bear like you leave the house without his cake? Come on, let's search for it!"
-
-Together, they rolled on and came upon a wise old owl. The owl laughed and said, "Bruno, your cake can always be found in your heart." Bruno scratched his head. What did the owl mean?
-
-They agreed to stop by the shimmering turtle Tillmann, who was known for finding things that were hidden from others. On the way, they met the singing mouse Lilli, who was cheerfully singing a song about lost things. Lilli joined them and realized they needed a good cake-finder in their group.
-
-Upon arriving at Tillmann, the turtle revealed that she had seen something strange in the forest and suggested it was wise to follow the creek, as it often hid the best secrets.
-
-Bruno, Erwin, and Lilli followed the advice and soon found not only the missing cake but also a hidden path leading to a secret garden. The owl had been right: The way to his heart led Bruno to a new adventure.
-
-In the end, Bruno of course found his cake again - it was under a green bush all the time. From then on, Bruno decided never to let his cake out of sight again, and the friends celebrated with a green picnic in the forest.
-
-## A Day Full of Laughter
-
-This day went down in bear history as "The Day of the Lost Cake," and every animal in the forest learned that good friends and a delicious cake are the best things in life.
+IyBBIEZ1bm55IExpdHRsZSBCZWFyIEFkdmVudHVyZQoKICAgICAgIF8gICAg
+IF8KICAgIC8gIC0tICBcCiAgICB8ICggbyAgIG8gKSB8CiAgICAvICBcICAt
+IC8gIFwKICAvICAgIFwgICAvICAgIFwKICB8ICBcX19fX198ClxuT25jZSB1
+cG9uIGEgdGltZSwgdGhlcmUgd2FzIGEgYmVhciBuYW1lZCBCcnVuby4gQnJ1
+bm8gd2FzIGEgdmVyeSBzcGVjaWFsIGJlYXIgYmVjYXVzZSBoZSBsb3ZlZCB0
+byByb2xsZXIgc2thdGUuIE9uZSBkYXksIHdoaWxlIHJvbGxpbmcgdGhyb3Vn
+aCB0aGUgZm9yZXN0LCBoZSBub3RpY2VkIHRoYXQgaGlzIGJlbG92ZWQgYmVh
+ciBjYWtlIHdhcyBtaXNzaW5nLiAiT2ggbm8hIiBCcnVubyBleGNsYWltZWQs
+ICJIb3cgY2FuIEkgY29udGludWUgd2l0aG91dCBteSBkZWxpY2lvdXMgY2Fr
+ZT8iCgpCcnVubyBkZWNpZGVkIHRvIGFzayBoaXMgZnJpZW5kcyBmb3IgaGVs
+cC4gVGhlIGZpcnN0IG9uZSBoaSBtZXQgd2FzIGEgc3F1aXJyZWwgbmFtZWQg
+RXJ3aW4uIEVyd2luIHNhaWQsICJXaHkgd291bGQgYSBiZWFyIGxpa2UgeW91
+IGxlYXZlIHRoZSBob3VzZSB3aXRob3V0IGhpcyBjYWtlPyBDb21lIG9uLCBs
+ZXQncyBzZWFyY2ggZm9yIGl0ISIKClRvZ2V0aGVyLCB0aGV5IHJvbGxlZCBv
+biBhbmQgY2FtZSB1cG9uIGEgd2lzZSBvbGQgb3dsLiBUaGUgb3dsIGxhdWdo
+ZWQgYW5kIHNhaWQsICJCcnVubywgeW91ciBjYWtlIGNhbiBhbHdheXMgYmUg
+Zm91bmQgaW4geW91ciBoZWFydC4iIEJydW5vIHNjcmF0Y2hlZCBoaXMgaGVh
+ZC4gV2hhdCBkaWQgdGhlIG93bCBtZWFuPwoKVGhleSBhZ3JlZWQgdG8gc3Rv
+cCBieSB0aGUgc2hpbW1lcmluZyB0dXJ0bGUgVGlsbG1hbm4sIHdobyB3YXMg
+a25vd24gZm9yIGZpbmRpbmcgdGhpbmdzIHRoYXQgd2VyZSBoaWRkZW4gZnJv
+bSBvdGhlcnMuIE9uIHRoZSB3YXksIHRoZXkgbWV0IHRoZSBzaW5naW5nIG1v
+dXNlIExpbGxpLCB3aG8gd2FzIGNoZWVyZnVsbHkgc2luZ2luZyBhIHNvbmcg
+YWJvdXQgbG9zdCB0aGluZ3MuIExpbGxpIGpvaW5lZCB0aGVtIGFuZCByZWFs
+aXplZCB0aGV5IG5lZWRlZCBhIGdvb2QgY2FrZS1maW5kZXIgaW4gdGhlaXIg
+Z3JvdXAuClxuVXBvbiBhcnJpdmluZyBhdCBUaWxsbWFubiB0aGUgdHVydGxl
+IHJldmVhbGVkIHRoYXQgc2hlIGhhZCBzZWVuIHNvbWV0aGluZyBzdHJhbmdl
+IGluIHRoZSBmb3Jlc3QgYW5kIHN1Z2dlc3RlZCBpdCB3YXMgd2lzZSB0byBm
+b2xsb3cgdGhlIGNyZWVrLCBhcyBpdCBvZnRlbiBoaWQgdGhlIGJlc3Qgc2Vj
+cmV0cy4KCkJydW5vLCBFcndpbiBhbmQgTGlsbGkgZm9sbG93ZWQgdGhlIGFk
+dmljZSBhbmQgc29vbiBmb3VuZCBub3Qgb25seSB0aGUgbWlzc2luZyBjYWtl
+IGJ1dCBhbHNvIGEgaGlkZGVuIHBhdGggbGVhZGluZyB0byBhIHNlY3JldCBn
+YXJkZW4uIFRoZSBvd2wgaGFkIGJlZW4gcmlnaHQ6IFRoZSB3YXkgdG8gaGlz
+IGhlYXJ0IGxlZCBCcnVubyB0byBhIG5ldyBhZHZlbnR1cmUuCgpJbiB0aGUg
+ZW5kLCBCcnVubyBvZiBjb3Vyc2UgZm91bmQgaGlzIGNha2UgYWdhaW4gLSBp
+dCB3YXMgdW5kZXIgYSBncmVlbiBidXNoIGFsbCB0aGUgdGltZS4gRnJvbSB0
+aGVuIG9uLCBCcnVubyBkZWNpZGVkIG5ldmVyIHRvIGxldCBoaXMgY2FrZSBv
+dXQgb2Ygc2lnaHQgYWdhaW4sIGFuZCB0aGUgZnJpZW5kcyBjZWxlYnJhdGVk
+IHdpdGggYSBncmVlbiBwaWNuaWMgaW4gdGhlIGZvcmVzdC4KCiMjIEEgRGF5
+IEZ1bGwgb2YgTGF1Z2h0ZXIKClRoaXMgZGF5IHdlbnQgZG93biBpbiBiZWFy
+IGhpc3RvcnkgYXMgIlRoZSBEYXkgb2YgdGhlIExvc3QgQ2FrZSwiIGFuZCBl
+dmVyeSBhbmltYWwgaW4gdGhlIGZvcmVzdCBsZWFybmVkIHRoYXQgZ29vZCBm
+cmllbmRzIGFuZCBhIGRlbGljaW91cyBjYWtlIGFyZSB0aGUgYmVzdCB0aGlu
+Z3MgaW4gbGlmZS4K
